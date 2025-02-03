@@ -10,7 +10,7 @@ fastlane/
 
 # Backup files
 .bak
-
+        "urlPattern": "/rest/v1.1/me/",
 # Generated files
 bin/
 gen/
